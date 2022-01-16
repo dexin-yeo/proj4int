@@ -1,0 +1,56 @@
+{
+    "parent": {
+        "type": "page_id",
+        "page_id": "2697606ce40348569b8a690c16d6f6ef"
+    },
+    "title": [
+        {
+            "type": "text",
+            "text": {
+                "content": "table-definition",
+                "link": null
+            }
+        }
+    ],
+    "properties": {
+        "table_name": {
+            "select": {
+                "options": [
+                    {
+                        "name": "my_roads",
+                        "color": "gray"
+                    }
+                ]
+            }
+        },
+        "column_name": {
+            "title": {}
+        },
+        "ordinal_position": {
+            "number": {}
+        },
+        "column_default": {
+            "rich_text": {}
+        },
+        "is_nullable": {
+            "select": {
+                "options": [
+                    {
+                        "name": "YES",
+                        "color": "green"
+                    },
+                    {
+                        "name": "NO",
+                        "color": "red"
+                    }
+                ]
+            }
+        },
+        "data_type": {
+            "rich_text": {}
+        },
+        "character_maximum_length": {
+            "number": {}
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+	"parent": { "database_id": "8801d6bb163f4386b32fdb568d4405f5" },
+	"properties": {
+		"table_name": {
+			"select": {
+				"name": "my_roads"
+			}
+		},
+		"column_name": {
+			"title": [
+				{
+					"text": {
+						"content": "tmp1"
+					}
+				}
+			]
+		},
+        "ordinal_position": {
+            "number": 18
+        },
+        "column_default": {
+			"rich_text": [
+				{
+					"text": {
+						"content": ""
+					}
+				}
+			]
+		},
+        "is_nullable": {
+			"select": {
+				"name": "YES"
+			}
+		},
+		"data_type": {
+			"rich_text": [
+				{
+					"text": {
+						"content": "integer"
+					}
+				}
+			]
+		},
+        "character_maximum_length": {
+            "number": 0
+        }
+	}
+}

@@ -1,0 +1,18 @@
+﻿table_name,column_name,ordinal_position,column_default,is_nullable,data_type,character_maximum_length
+my_roads,gid,1,,NO,integer,
+my_roads,osm_id,2,,YES,character varying,10
+my_roads,code,3,,YES,smallint,
+my_roads,fclass,4,,YES,character varying,28
+my_roads,name,5,,YES,character varying,100
+my_roads,ref,6,,YES,character varying,20
+my_roads,oneway,7,,YES,character varying,1
+my_roads,maxspeed,8,,YES,smallint,
+my_roads,layer,9,,YES,double precision,
+my_roads,bridge,10,,YES,character varying,1
+my_roads,tunnel,11,,YES,character varying,1
+my_roads,geom,12,,YES,USER-DEFINED,
+my_roads,state_id,13,,YES,character varying,
+my_roads,district_id,14,,YES,character varying,
+my_roads,mukim_id,15,,YES,character varying,
+my_roads,geom2,16,,YES,USER-DEFINED,
+my_roads,street_name,17,,YES,character varying,
